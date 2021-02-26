@@ -1,0 +1,14 @@
+[
+  {
+    "rule_name" : "중간 점수 집계",
+    "var_name": "mid_score",
+    "date" : "2021-02-22 00:00:00",
+    "weight" : 0.2
+  },
+  {
+    "rule_name" : "최종 점수 집계",
+    "var_name": "final_score",
+    "date" : "2021-03-08 00:00:00",
+    "weight" : 0.8
+  }
+]

@@ -1,0 +1,115 @@
+{
+    "total_score_update_time": "2021-02-22 18:08:59.772858+09:00",
+    "namelist": [
+        {
+            "name": "seungmin",
+            "last_submission": "2021-02-17 19:06:20.632842+09:00",
+            "total_count": 5,
+            "avg_accuracy": 78.28,
+            "final_score": 0,
+            "mid_score": 78.28,
+            "total_score": 15.656,
+            "last_accuracy": 78.28,
+            "penalty": 0
+        },
+        {
+            "name": "hankyul",
+            "last_submission": "2021-02-07 09:49:48.202083+09:00",
+            "total_count": 4,
+            "avg_accuracy": 77.27,
+            "final_score": 0,
+            "mid_score": 77.27,
+            "total_score": 15.454,
+            "last_accuracy": 77.27,
+            "penalty": 0
+        },
+        {
+            "name": "jihoon",
+            "last_submission": "2021-02-16 18:52:03.769036+09:00",
+            "total_count": 17,
+            "avg_accuracy": 75.93,
+            "final_score": 0,
+            "mid_score": 75.93,
+            "total_score": 15.186,
+            "last_accuracy": 75.93,
+            "penalty": 0
+        },
+        {
+            "name": "kideok",
+            "last_submission": "2021-02-03 17:24:06.404169+09:00",
+            "total_count": 3,
+            "avg_accuracy": 75.52,
+            "final_score": 0,
+            "mid_score": 75.52,
+            "total_score": 15.104,
+            "last_accuracy": 75.52,
+            "penalty": 0
+        },
+        {
+            "name": "dohyun",
+            "last_submission": "2021-02-22 02:13:41.997080+09:00",
+            "total_count": 1,
+            "avg_accuracy": 70.78,
+            "final_score": 0,
+            "mid_score": 70.78,
+            "total_score": 14.156,
+            "last_accuracy": 70.78,
+            "penalty": 0
+        },
+        {
+            "name": "changyeob",
+            "last_submission": "2021-01-26 12:16:05.983074+09:00",
+            "total_count": 1,
+            "avg_accuracy": 67.81,
+            "final_score": 0,
+            "mid_score": 67.81,
+            "total_score": 13.562,
+            "last_accuracy": 67.81,
+            "penalty": 0
+        },
+        {
+            "name": "juhyun",
+            "last_submission": "2021-02-22 09:22:21.363536+09:00",
+            "total_count": 1,
+            "avg_accuracy": 67.4,
+            "final_score": 0,
+            "mid_score": 67.4,
+            "total_score": 13.48,
+            "last_accuracy": 67.4,
+            "penalty": 0
+        },
+        {
+            "name": "dongwook",
+            "last_submission": "2021-01-18 13:10:59.504522+09:00",
+            "total_count": 2,
+            "avg_accuracy": 63.36,
+            "final_score": 0,
+            "mid_score": 63.36,
+            "total_score": 12.672,
+            "last_accuracy": 63.36,
+            "penalty": 0
+        },
+        {
+            "name": "sanghyun",
+            "last_submission": "2021-02-16 17:27:57.559770+09:00",
+            "total_count": 4,
+            "avg_accuracy": 62.63,
+            "final_score": 0,
+            "mid_score": 62.63,
+            "total_score": 12.526,
+            "last_accuracy": 62.63,
+            "penalty": 0
+        },
+        {
+            "name": "yongha",
+            "last_submission": "2021-02-22 17:00:47.463773+09:00",
+            "total_count": 10,
+            "avg_accuracy": 61.02,
+            "final_score": 0,
+            "mid_score": 61.02,
+            "total_score": 12.204,
+            "last_accuracy": 55.4,
+            "penalty": 0
+        }
+    ]
+}
